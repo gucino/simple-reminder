@@ -1,4 +1,4 @@
-This code is reminder systems
+This code is reminder system
 
 There are 3 main files:
 1.recorder.py
